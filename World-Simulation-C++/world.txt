@@ -1,0 +1,23 @@
+8 8 1 22 1 1
+Fox 3 7 2 3 1
+Fox 3 7 4 6 1
+Wolf 9 5 8 3 1
+Wolf 9 5 7 1 1
+Human 5 4 7 4 1
+Sheep 4 4 3 5 1
+Antelope 4 4 4 1 1
+Turtle 2 1 2 4 1
+Turtle 2 1 1 5 1
+Grass 0 0 8 8 1
+Sow thistle 0 0 7 5 1
+Guarana 0 0 3 4 1
+Belladonna 0 0 6 1 1
+Sosnowsky's hogweed 0 0 3 7 1
+Grass 0 0 8 4 1
+Sow thistle 0 0 3 1 1
+Guarana 0 0 4 8 1
+Belladonna 0 0 2 8 1
+Sow thistle 0 0 7 6 0
+Guarana 0 0 4 4 0
+Sow thistle 0 0 3 2 0
+Sow thistle 0 0 2 1 0
